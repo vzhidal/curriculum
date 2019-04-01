@@ -43,8 +43,8 @@ input knowledge.
 
 ## Materials
 
-- [theory](./theory/index.md) 
-- [tasks](./tasks/index.md)
-- [questions](./questions/index.md)
+- [theory](./theory/readme.md) 
+- [tasks](./tasks/readme.md)
+- [questions](./questions/readme.md)
 
 

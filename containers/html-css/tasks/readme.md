@@ -51,14 +51,14 @@ from HTML/CSS trainings.
 
 ## List of Tasks
 
-| name                                                    | short description                                     | priority | estimation (h) | requirements |
-|---------------------------------------------------------|-------------------------------------------------------|----------|----------------|--------------|
-| [static-web-page-1](./static-web-page-1/index.md)       | create a static web page using an attached layout     | 1        | 30             |              |
-| [static-web-page-2](./static-web-page-2/index.md)       | create a static web page using an attached layout     | 1        | 30             |              |
-| [static-web-page-3](./static-web-page-3/index.md)       | create a static web page using an attached layout     | 1        | 30             |              |
-| [static-web-page-4](./static-web-page-4/index.md)       | create a static web page using an attached layout     | 1        | 30             |              |
-| [static-web-page-5](./static-web-page-5/index.md)       | create a static web page using an attached layout     | 1        | 30             |              |
-| [static-web-page-6](./static-web-page-6/index.md)       | create a static web page using an attached layout     | 1        | 30             |              |
-| [static-web-page-7](./static-web-page-7/index.md)       | create a static web page using an attached layout     | 1        | 30             |              |
-| [responsive-webpage-1](./responsive-webpage-1/index.md) | create a responsive web page using an attached layout | 1        | 30             |              |
+| name                                                     | short description                                     | priority | estimation (h) | requirements |
+|----------------------------------------------------------|-------------------------------------------------------|----------|----------------|--------------|
+| [static-web-page-1](./static-web-page-1/readme.md)       | create a static web page using an attached layout     | 1        | 30             |              |
+| [static-web-page-2](./static-web-page-2/readme.md)       | create a static web page using an attached layout     | 1        | 30             |              |
+| [static-web-page-3](./static-web-page-3/readme.md)       | create a static web page using an attached layout     | 1        | 30             |              |
+| [static-web-page-4](./static-web-page-4/readme.md)       | create a static web page using an attached layout     | 1        | 30             |              |
+| [static-web-page-5](./static-web-page-5/readme.md)       | create a static web page using an attached layout     | 1        | 30             |              |
+| [static-web-page-6](./static-web-page-6/readme.md)       | create a static web page using an attached layout     | 1        | 30             |              |
+| [static-web-page-7](./static-web-page-7/readme.md)       | create a static web page using an attached layout     | 1        | 30             |              |
+| [responsive-webpage-1](./responsive-webpage-1/readme.md) | create a responsive web page using an attached layout | 1        | 30             |              |
 

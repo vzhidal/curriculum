@@ -24,7 +24,7 @@ Every container should consists of the next parts:
   
 ## List of Containers
 
-[html-css](./containers/html-css/index.md) - study how to create a
+[html-css](./containers/html-css/readme.md) - study how to create a
 webpage (from a simple static page to a responsive page with interactive
 elements). JavaScript is not needed here.
 
