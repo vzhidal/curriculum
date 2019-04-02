@@ -1,8 +1,5 @@
 # Practical Tasks
 
-You are to design an HTML/CSS page using PSD mockup(s). The main mockup
-contains desktop design. If provided, the second PSD depicts the mobile
-version. If not provided, create mobile version based on common sense.
 To accomplish that task, you'll need to watch
 [several screencasts](https://1drv.ms/f/s!AsZKQfymLyQuhO5NZiCdui5qbY6SLQ)
 from HTML/CSS trainings. 
@@ -10,10 +7,6 @@ from HTML/CSS trainings.
 
 ## General Requirements
 
-* You are to design an HTML/CSS page using PSD mockup(s). The main
-  mockup contains desktop design. If provided, the second PSD depicts
-  the mobile version. If not provided, create mobile version based on
-  common sense.
 * Don’t use LESS and SASS/SCSS. This task is to focus on HTML and CSS 
   design, not front-end builds and preprocessors.
 * Make use of HTML semantic elements. 
@@ -46,19 +39,15 @@ from HTML/CSS trainings.
 * Apply [CSScomb](http://csscomb.com/) tool to lint and order CSS rules.
   The general recommendation of ordering CSS rules can be found
   [here](https://css-tricks.com/poll-results-how-do-you-order-your-css-properties/).
-  ([basic configuration](../sources/csscomb.json))
+  ([basic configuration](../assets/csscomb.json))
 
 
-## List of Tasks
+## List of Tasks Groups
 
-| name                                                     | short description                                     | priority | estimation (h) | requirements |
-|----------------------------------------------------------|-------------------------------------------------------|----------|----------------|--------------|
-| [static-web-page-1](./static-web-page-1/readme.md)       | create a static web page using an attached layout     | 1        | 30             |              |
-| [static-web-page-2](./static-web-page-2/readme.md)       | create a static web page using an attached layout     | 1        | 30             |              |
-| [static-web-page-3](./static-web-page-3/readme.md)       | create a static web page using an attached layout     | 1        | 30             |              |
-| [static-web-page-4](./static-web-page-4/readme.md)       | create a static web page using an attached layout     | 1        | 30             |              |
-| [static-web-page-5](./static-web-page-5/readme.md)       | create a static web page using an attached layout     | 1        | 30             |              |
-| [static-web-page-6](./static-web-page-6/readme.md)       | create a static web page using an attached layout     | 1        | 30             |              |
-| [static-web-page-7](./static-web-page-7/readme.md)       | create a static web page using an attached layout     | 1        | 30             |              |
-| [responsive-webpage-1](./responsive-webpage-1/readme.md) | create a responsive web page using an attached layout | 1        | 30             |              |
+| name                                                   | short description                                     | priority | estimation (h) | requirements |
+|--------------------------------------------------------|-------------------------------------------------------|----------|----------------|--------------|
+| [static-web-page](./static-web-page/readme.md)         | create a static web page using an attached layout     | 1        | 20-30          |              |
+| [responsive-web-page](./responsive-web-page/readme.md) | create a responsive web page using an attached layout | 1        | 40-50          |              |
+
+
 
