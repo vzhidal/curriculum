@@ -14,13 +14,14 @@ topic.
 
 ## Container Structure
 
-Every container should consists of the next parts: 
+Every container should consist of the next parts: 
 
 - Theory - any theoretical materials (presentations, screencasts, books,
-  external links)
-- Tasks - practical tasks and any materials for them
+  external links).
+- Tasks and Groups of Tasks - practical tasks and any materials for them. 
+  Similar tasks can be grouped.
 - Questions - check list for the internal interview and a list of
-  questions to ask after the container was finished
+  questions to ask after the container was finished.
   
 ## List of Containers
 
@@ -28,9 +29,11 @@ Every container should consists of the next parts:
 webpage (from a simple static page to a responsive page with interactive
 elements). JavaScript is not needed here.
 
-## Contribution
+## Contributing
 
 A pull request should be created to add a new container or a part of an
 existing container.
+
+See details [here](./contributing.md) .
 
 
