@@ -12,6 +12,7 @@ After this course trainees will be able to do simple plain JS tasks.
 ## Topics
 
 TODO: A list of topics.
+Some Topic
 
 ## Technical Requirements
 
