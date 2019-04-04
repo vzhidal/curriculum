@@ -1,4 +1,4 @@
-# Filter Panel
+# Filter Widget
 
 Create a widget for data filtering
 
